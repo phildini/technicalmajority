@@ -1,2 +1,0 @@
-# technicalmajority
-technicalmajority.com
