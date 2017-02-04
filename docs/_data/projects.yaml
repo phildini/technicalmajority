@@ -1,0 +1,23 @@
+- id: hillayrbnb
+  name: HillaryBNB
+  url: https://github.com/DevProgress/HillaryBNB
+  built_by_name: DevProgress
+  built_by_id: devprogress
+  description: >
+    We want to build an app to allow supporters to share their homes with others from out of town and to help supporters on the road find lodging.
+
+- id: nomad
+  name: Nomad
+  url: https://github.com/DevProgress/nomad2016
+  built_by_name: DevProgress
+  built_by_id: devprogress
+  description: >
+    Nomad is a web app for arranging long-distance carpools for supporters and activists, which was used to great success during the Hillary 2016 campaign.
+
+- id: neveragain
+  name: NeverAgain Pledge
+  url: http://neveragain.tech
+  built_by_name: Tech Solidarity
+  built_by_id: techsolidarity
+  description: >
+    NeverAgain is the pledge signed by technologists around the country who are pledging to refuse to build a database of people based on their Constitutionally-protected religious beliefs. The refuse to facilitate mass deportations of people the government believes to be undesirable. The pledge is no longer accepting individual signatories.

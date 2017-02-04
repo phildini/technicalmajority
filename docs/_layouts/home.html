@@ -92,21 +92,13 @@
             <div class="col-md-12">
                 <table class="table table-bordered">
                     <tbody>
+                        {% for project in site.data.projects %}
                         <tr>
-                            <td><a href="https://github.com/DevProgress/HillaryBNB">HillaryBNB</a></td>
-                            <td>We want to build an app to allow supporters to share their homes with others from out of town and to help supporters on the road find lodging.</td>
-                            <td>Built by <a href="#devprogress">DevProgress</a></td>
+                            <td><a href="{{ project.url }}">{{ project.name }}</a></td>
+                            <td>{{ project.description }}</td>
+                            <td>Built by <a href="{{ project.built_by_id }}">{{ project.built_by_name }}</a></td>
                         </tr>
-                        <tr>
-                            <td><a href="https://github.com/DevProgress/nomad2016">Nomad</a></td>
-                            <td>Nomad is a web app for arranging long-distance carpools for supporters and activists, which was used to great success during the Hillary 2016 campaign.</td>
-                            <td>Built by <a href="#devprogress">DevProgress</a></td>
-                        </tr>
-                        <tr>
-                            <td><a href="http://neveragain.tech">NeverAgain Pledge</a></td>
-                            <td>NeverAgain is the pledge signed by technologists around the country who are pledging to refuse to build a database of people based on their Constitutionally-protected religious beliefs. The refuse to facilitate mass deportations of people the government believes to be undesirable. The pledge is no longer accepting individual signatories.</td>
-                            <td>Built by <a href="#techsolidarity">Tech Solidarity</a></td>
-                        </tr>
+                        {% endfor %}
                     </tbody>
                 </table>
             </div>
