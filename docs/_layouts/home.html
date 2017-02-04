@@ -111,40 +111,12 @@
             <div class="col-md-12">
                 <table class="table table-bordered">
                     <tbody>
+                        {% for resource in site.data.resources %}
                         <tr>
-                            <td><a href="http://www.morethanvotes.com/">More than Votes</a></td>
-                            <td>Sometimes voting isn't enough. Find your local city or county meetings. Show up.</td>
+                            <td><a href="{{ resource.url }}">{{ resource.name }}</a></td>
+                            <td>{{ resource.description }}</td>
                         </tr>
-                        <tr>
-                            <td><a href="https://swingleft.org/">Swing Left</a></td>
-                            <td>Find your swing district. Control of the House in 2018 will be decided by a handful of Swing Districts, places where the last election was decided by a thin margin. Find your closest Swing District and join its team to learn about actionable opportunities to support progressives—and defeat Republicans—in that district, no matter where you live. We can stop Trump and the GOP agenda by working together NOW.</td>
-                        </tr>
-                        <tr>
-                            <td><a href="https://5calls.org/">5Calls</a></td>
-                            <td>Spend 5 minutes, make 5 calls.
-                            There's one simple and straightforward way to influence the Government that is supposed to represent you: Call them on the phone.
-                            Calling is the most effective way to influence your representative. 5 Calls gives you contacts and scripts so calling is quick and easy. We use your location to give you your local representatives so your calls are more impactful.</td>
-                        </tr>
-                        <tr>
-                            <td><a href="https://2018Pledge.com/">#2018Pledge</a></td>
-                            <td>60% of eligible voters turned out for the 2016 election but only 40% are expected for the 2018 midterms. #2018Pledge is a simple effort to keep our eye on the ball for the next election so we can create a progressive Congress for progressive policies. Take the #2018Pledge, spread the word, and be reminded so you don't sit out the 2018 election.</td>
-                        </tr>
-                        <tr>
-                          <td><a href="https://taxmarch.org//">Tax March</a>
-                          <td>President Trump still hasn't released his tax returns. That is unacceptable — and 74% of Americans agree. Let's show him.</td>
-                        </tr>
-                        <tr>
-                            <td><a href="https://istandupfor.us/">I Stand Up For US</a></td>
-                            <td>It's hard to ignore stacks of actual snail mail. This site makes it easy to write a custom message and mail a postcard to your elected officials. We'll use your zip code to find your Senator(s) then take care of the formatting, printing and mailing for you. Speak up, loudly and often.</td>
-                        </tr>
-                        <tr>
-                          <td><a href="https://www.runforsomething.net/">Run For Something</a>
-                          <td>Run for Something will recruit and support talented, passionate youngsters who will advocate for progressive values now and for the next 30 years, with the ultimate goal of building a progressive bench</td>
-                        </tr>
-                        <tr>
-                          <td><a href="https://www.flippable.org/">flippable</a>
-                          <td>flippable's mission is to turn America blue by building a movement to flip seats. They focus on state races, which play a huge role in national elections but are often overlooked. They tell you which races are important, who's running, and how you can support them.</td>
-                        </tr>
+                        {% endfor %}
                     </tbody>
                 </table>
             </div>

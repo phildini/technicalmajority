@@ -1,0 +1,49 @@
+- id: morethanvotes
+  name: More than Votes
+  url: http://www.morethanvotes.com/
+  description: >
+    Sometimes voting isn't enough. Find your local city or county meetings. Show up.
+
+- id: swingleft
+  name: Swing Left
+  url: https://swingleft.org/
+  description: >
+    Find your swing district. Control of the House in 2018 will be decided by a handful of Swing Districts, places where the last election was decided by a thin margin. Find your closest Swing District and join its team to learn about actionable opportunities to support progressives—and defeat Republicans—in that district, no matter where you live. We can stop Trump and the GOP agenda by working together NOW.
+
+- id: 5calls
+  name: 5Calls
+  url: https://5calls.org/
+  description: >
+    Spend 5 minutes, make 5 calls.
+    There's one simple and straightforward way to influence the Government that is supposed to represent you: Call them on the phone.
+    Calling is the most effective way to influence your representative. 5 Calls gives you contacts and scripts so calling is quick and easy. We use your location to give you your local representatives so your calls are more impactful.
+
+- id: 2018pledge
+  name: "#2018Pledge"
+  url: https://2018Pledge.com/
+  description: >
+    60% of eligible voters turned out for the 2016 election but only 40% are expected for the 2018 midterms. #2018Pledge is a simple effort to keep our eye on the ball for the next election so we can create a progressive Congress for progressive policies. Take the #2018Pledge, spread the word, and be reminded so you don't sit out the 2018 election.
+
+- id: taxmarch
+  name: Tax March
+  url: https://taxmarch.org//
+  description: >
+    President Trump still hasn't released his tax returns. That is unacceptable — and 74% of Americans agree. Let's show him.
+
+- id: istandupforus
+  name: I Stand Up For US
+  url: https://istandupfor.us/
+  description: >
+    It's hard to ignore stacks of actual snail mail. This site makes it easy to write a custom message and mail a postcard to your elected officials. We'll use your zip code to find your Senator(s) then take care of the formatting, printing and mailing for you. Speak up, loudly and often.
+
+- id: runforsomething
+  name: Run For Something
+  url: https://www.runforsomething.net/
+  description: >
+    Run for Something will recruit and support talented, passionate youngsters who will advocate for progressive values now and for the next 30 years, with the ultimate goal of building a progressive bench
+
+- id: flippable
+  name: flippable
+  url: https://www.flippable.org/
+  description: >
+    flippable's mission is to turn America blue by building a movement to flip seats. They focus on state races, which play a huge role in national elections but are often overlooked. They tell you which races are important, who's running, and how you can support them.
