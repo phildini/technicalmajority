@@ -76,4 +76,30 @@
     We're building on that momentum and creating a sustainable network of volunteers: creating open-source tools for the progressive movement; helping progressive campaigns compete without needing millions of dollars in funding; enabling them to champion a platform centered in social and economic justice without big money's influence.
   join_url: https://airtable.com/shrSnsmAIGWD1oGIL
 
+- id: codecorps
+  name: Code Corps
+  url: https://www.codecorps.org/
+  description: >
+    We help people build simple software
+    that solves hard problems. Here's our plan: We're matching developers and designers, project managers and marketers – any and every talent – to ambitious projects that need their help.
+    We're educating and training, developing and encouraging people who build public software. We want to help projects be successful and people to do their best work.
+    We're building a crowdfunding platform to support ongoing work. We aim to keep funders engaged in projects and connected to the teams they're supporting.
+    We're developing tools to help people collaborate on, organize, and even distribute their work. We're listening closely to hear what needs built, and then building it.
+  join_url: https://www.codecorps.org/signup
+
+- id: techforjustice
+  name: Tech For Justice
+  url: http://www.techforjustice.org/
+  description: >
+    Tech For Justice® is an initiative to accelerate the development of technology applications and processes that improve access to justice in human rights, legal aid, and the environment.
+    We aim to support those who need critical help more efficiently, and change processes that no longer serve the people. Technology provides communities with the ability to gather around targeted problems.
+  join_url: http://www.techforjustice.org/get-involved/
+
+- id: transhack
+  name: Trans*H4CK
+  url: http://www.transhack.org/
+  description: >
+    We shift the ways trans*, gender non conforming, agender and non binary people live by creating technology that economically empowers, improves access to social services, promotes gender safety and community sustainability, while bringing visibility to trans* tech innovators and entrepreneurs.
+  join_url: http://www.transhack.org/donate
+
 
