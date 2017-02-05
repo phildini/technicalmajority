@@ -95,7 +95,7 @@
                 <table class="table table-bordered">
                     <tbody>
                         {% for project in site.data.projects %}
-                        <tr>
+                        <tr id="{{ project.id }}">
                             <td><a href="{{ project.url }}">{{ project.name }}</a></td>
                             <td>{{ project.description }}</td>
                             <td>Built by <a href="{{ project.built_by_id }}">{{ project.built_by_name }}</a></td>
@@ -114,7 +114,7 @@
                 <table class="table table-bordered">
                     <tbody>
                         {% for resource in site.data.resources %}
-                        <tr>
+                        <tr id="{{ resource.id }}">
                             <td><a href="{{ resource.url }}">{{ resource.name }}</a></td>
                             <td>{{ resource.description }}</td>
                         </tr>
