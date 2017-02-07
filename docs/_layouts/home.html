@@ -107,6 +107,24 @@
         </div>
         <div class="row">
             <div class="col-md-12">
+            <h2 id="tools">Tools ({{ site.data.tools | size }})</h2>
+            <p>These are tools that have been developed to help activists build great things.</p>
+            </div>
+            <div class="col-md-12">
+                <table class="table table-bordered">
+                    <tbody>
+                        {% for tool in site.data.tools %}
+                        <tr id="{{ tool.id }}">
+                            <td><a href="{{ tool.url }}">{{ tool.name }}</a></td>
+                            <td>{{ tool.description }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
             <h2 id="resources">Resources ({{ site.data.resources | size }})</h2>
             <p>Ways to get involved outside of tech, and stay up-to-date</p>
             </div>
