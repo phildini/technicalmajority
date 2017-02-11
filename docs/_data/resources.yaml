@@ -173,3 +173,9 @@
   url: https://whatthefuckjusthappenedtoday.com/
   description: >
     Logging the daily shock and awe. By @matt_kiser
+
+- id: townhallproject
+  name: The Town Hall Project
+  url: https://docs.google.com/spreadsheets/u/1/d/1yq1NT9DZ2z3B8ixhid894e77u9rN5XIgOwWtTW72IYA/htmlview?sle=true#gid=1473996386
+  description: >
+    Find where and when all your elected representatives are having town halls.
