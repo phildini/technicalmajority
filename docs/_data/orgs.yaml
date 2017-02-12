@@ -113,3 +113,24 @@
   url: https://techworkerscoalition.org/
   description: We are a coalition of workers in and around the tech industry, labor organizers, community organizers, and friends. We are organizing for activism, civic engagement and education in the Bay Area. We work in solidarity with existing movements towards social justice, workers rights, and economic inclusion.
   join_url: https://www.meetup.com/Tech-Workers-Coalition/
+
+- id: volunteer.wtf
+  name: WTF Volunteer Switchboard
+  url: http://volunteer.wtf/
+  description: >
+    Mid-term elections are just around the corner. It’s time to be extraordinary. 
+
+    Volunteer Switchboard is our first project:
+
+    Connecting talented volunteers to opportunities to win elections.
+
+    Wondering what you can do to stop Trump?
+  join_url: http://volunteer.wtf/volunteer/
+
+- id: catachafire
+  name: Catchafire
+  url: https://www.catchafire.org/
+  description: >
+    Catchafire connects social good organizations with pro bono professionals who want to donate their skills
+  join_url: https://www.catchafire.org/volunteer/
+
