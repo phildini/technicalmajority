@@ -134,3 +134,9 @@
     Catchafire connects social good organizations with pro bono professionals who want to donate their skills
   join_url: https://www.catchafire.org/volunteer/
 
+- id: debugpolitics
+  name: Debug Politics
+  url: https://www.debugpolitics.com/
+  description: >
+    Debug Politics hosts events aimed at converting the tech community's frustration with politics into meaningful action. Let's use our talents as developers, designers, and technologists to find innovative ways to make a real difference.
+  join_url: https://www.debugpolitics.com/signup.html
