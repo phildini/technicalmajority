@@ -56,9 +56,15 @@
 
 - id: whatdoido
   name: What Do I Do About Trump?
+  url: http://whatdoidoabouttrump.com/
+  description: >
+    Upset about Republican-dominated politics and want to make a difference? Get started at What Do I Do About Trump. Comprehensive guide to volunteering and action. #Resist!
+
+- id: actionhub
+  name: Action Hub
   url: http://whatdoidoabouttrump.com/action-hub
   description: >
-    We collect action alerts and calls to action from more than 30 different websites, so you can find actions to take ––– and see what’s happening across the resistance ––– all in one place. Thanks to our many call-to-action partners for being a part of this project!
+    We collect action alerts and calls to action from more than 30 different websites, so you can find actions to take ––– and see what’s happening across the resistance ––– all in one place. 
 
 - id: callthemin
   name: Call Them In
