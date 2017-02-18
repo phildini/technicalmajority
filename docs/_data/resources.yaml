@@ -64,7 +64,7 @@
   name: Action Hub
   url: http://whatdoidoabouttrump.com/action-hub
   description: >
-    We collect action alerts and calls to action from more than 30 different websites, so you can find actions to take ––– and see what’s happening across the resistance ––– all in one place. 
+    We collect action alerts and calls to action from more than 30 different websites, so you can find actions to take ––– and see what’s happening across the resistance ––– all in one place.
 
 - id: callthemin
   name: Call Them In
@@ -154,7 +154,7 @@
 
     Together, we can harness the collective power of the people to resist the impact of a Trump presidency and to continue to make progress in our communities.
 
-    Get educated. Get organized. Take action. 
+    Get educated. Get organized. Take action.
 
 - id: sisterdistrict
   name: Sister District Project
@@ -175,7 +175,7 @@
     Get started in less than a minute.
 
 - id: wtf
-  name: What The Fuck Just Happened Today? 
+  name: What The Fuck Just Happened Today?
   url: https://whatthefuckjusthappenedtoday.com/
   description: >
     Logging the daily shock and awe. By @matt_kiser
@@ -185,3 +185,10 @@
   url: https://docs.google.com/spreadsheets/u/1/d/1yq1NT9DZ2z3B8ixhid894e77u9rN5XIgOwWtTW72IYA/htmlview?sle=true#gid=1473996386
   description: >
     Find where and when all your elected representatives are having town halls.
+
+- id: issuevoter
+  name: IssueVoter
+  url: https://issuevoter.org/
+  description: >
+    IssueVoter is a nonpartisan voter engagement tool for busy Americans to make a real impact on Congress. We present complex bills in simple, easy to read language that helps voters form opinions, which we then forward on to congress. Over time, we're able to generate a personalized scorecard that shows how well congress is representing our users.
+  join_url: https://issuevoter.org/profiles/signup
