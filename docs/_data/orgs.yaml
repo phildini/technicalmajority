@@ -15,10 +15,10 @@
 
 - id: ragtag
   name: Ragtag
-  url: https://ragtag.team/
+  url: https://ragtag.org/
   description: >
     Ragtag is a team of tech-generation volunteers and activists working to support progressive causes and organizations. We are not affiliated with the DNC, though we are still good friends. :) Ragtag works on projects that range from building software, to writing how-to guides, to providing in-person tech support for organizers and activists in their communities. Ragtag's project ideas come from group members, and from requests from external groups. Sign up to join at ragtag.team/join. Orgs and other groups can get in touch with Ragtag about getting help with projects or tech support by heading to ragtag.team/connect.
-  join_url: https://docs.google.com/a/philipjohnjames.com/forms/d/e/1FAIpQLSeEbA6X7zEM5M5KRG_f-mMYUeuV0QnDCH3S0EgVXDQTPOyIiQ/viewform?c=0&w=1
+  join_url: https://ragtag.org/join
 
 - id: techsolidarity
   name: Tech Solidarity
