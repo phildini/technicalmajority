@@ -192,3 +192,10 @@
   description: >
     IssueVoter is a nonpartisan voter engagement tool for busy Americans to make a real impact on Congress. We present complex bills in simple, easy to read language that helps voters form opinions, which we then forward on to congress. Over time, we're able to generate a personalized scorecard that shows how well congress is representing our users.
   join_url: https://issuevoter.org/profiles/signup
+  
+- id: resistancecalendar
+  name: Resistance Calendar
+  url: https://www.resistancecalendar.org/
+  description: >
+    All the events for resistance, across the country. Submit your own, or find one to join
+
