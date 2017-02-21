@@ -1,3 +1,8 @@
+- id: datadotworld
+  name: data.world
+  url: https://data.world
+  description: >
+    data.world is a social network for data people, and makes data more discoverable, interoperable, and social. The mission of data.world is to build the most meaningful, collaborative and abundant data resource in the world in order to maximize data’s societal problem-solving utility, advocate publicly for improving the adoption, usability, and proliferation of open data and linked data, and serve as an accessible historical repository of the world’s data.
 - id: groundwork
   name: The Groundwork
   url: https://thegroundwork.com/
