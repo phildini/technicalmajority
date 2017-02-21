@@ -155,3 +155,10 @@
   description: >
     Project 501 matches non-profit organizations with talented professionals who want to donate their skills. Skill-based volunteer projects offer meaningful opportunities for volunteers to make an impact.
   join_url: https://www.project501.com/users/sign_up
+  
+- id: techsandbalances
+  name: Techs and Balances
+  url: http://www.techsandbalances.org/
+  description: >
+    We are a community of 100+ Engineers, Designers, and Product Managers devoted to building tools that make a positive impact - from standalone apps to integrations and enhancements for existing organizations and movements. We do not charge for our services, though we do pursue creative ways to capitalize projects for devops, server costs, and so on as needed ( e.g. patrons, donors, crowdfunding).
+  join_url: http://www.techsandbalances.org/#join-us
