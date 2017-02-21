@@ -140,3 +140,11 @@
   description: >
     Debug Politics hosts events aimed at converting the tech community's frustration with politics into meaningful action. Let's use our talents as developers, designers, and technologists to find innovative ways to make a real difference.
   join_url: https://www.debugpolitics.com/signup.html
+
+- id: digitalservice
+  name: The Digital Service
+  description: >
+    Thousands of people go to work every day to defend our rights, protect at-risk populations and organizations, and provide opportunities and resources for those in need.
+
+    Whether you care about immigration, civic engagement, education, jobs, or the environment, there are lawyers, non-profits and activists who are working to solve problems and they need your help. Connect with the people who have dedicated their lives to serving the people, and be of service to them.
+  join_url: https://thedigitalservice.org/projects
