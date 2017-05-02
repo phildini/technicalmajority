@@ -1,6 +1,6 @@
 # Technical Majority
 
-Hello! This is the repo that maintains technicalmajority.com, a catalog
+Hello! This is the repo that maintains https://technicalmajority.com, a catalog
 for information about technology partnering with activists and governments to
 increase government by the people, for the people, of the people.
 
