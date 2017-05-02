@@ -10,6 +10,6 @@ All contributions and interactions are governed by our code of conduct.
 
 ## Get started!
 
-A great place to start would be adding projects, organizations, or resources. 
+A great place to start would be adding projects, organizations, resources or jobs. 
 Look under the `docs/_data` for the appropriate YAML files, and follow the
 pattern there to add items.
